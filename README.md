@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey!!,+My+name+is+Otávio+Lopes;I'm+18+and+I'm+from+Brazil;I+have+graduated+Systems+Development;Be+Welcome!+)](https://git.io/typing-svg)
 
-
-<div align="center">
-  <a href="https://github.com/lopes-otavio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopes-otavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E">
-</div>
-
 ## Fala aii!! Eu sou o Otávio Lopes 
 
 - 🔭 Atualmente atuando como front-end

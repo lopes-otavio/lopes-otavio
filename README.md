@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2d667&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey!!,+My+name+is+Otávio+Lopes;I'm+18+and+I'm+from+Brazil;I+have+graduated+Systems+Development;Be+Welcome!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey!!,+My+name+is+Otávio+Lopes;I'm+19+and+I'm+from+Brazil;I+have+graduated+Systems+Development;Be+Welcome!+)](https://git.io/typing-svg)
 
 ## Fala aii!! Eu sou o Otávio Lopes 
 

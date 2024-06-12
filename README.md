@@ -26,8 +26,8 @@
   <a href="https://www.youtube.com/channel/UCwUzvA8o2S0hmZ7T-ykV1Ww" target="_blank">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 	</a>
-  <a href="https://www.instagram.com/otavio7lopes/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/otaviolopes07" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"">
   </a>
  	<a href="https://www.twitch.tv/taviwoww" target="_blank">
 		<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">

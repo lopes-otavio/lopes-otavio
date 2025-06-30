@@ -25,7 +25,7 @@
   <a href = "mailto:otavio7lopes@hotmail.com">
 	<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/otavio-lopes-a431a621b/" target="_blank">
+  <a href="https://www.linkedin.com/in/o-lopes" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>

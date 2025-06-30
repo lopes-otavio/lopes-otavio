@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey!!,+My+name+is+Otávio+Lopes;I'm+20+and+I'm+from+Brazil;I+have+graduated+Systems+Development;Be+Welcome!+)](https://git.io/typing-svg)
 
-## Fala aii!! Eu sou o Otávio Lopes 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
